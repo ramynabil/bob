@@ -1,0 +1,15 @@
+body{
+	padding-top: 2%;
+}
+
+.card-inner {
+	background-color: blue;
+}
+#bob2{
+	float: right;
+	max-height: 50%;
+	max-width: 33%;
+}
+.synths{
+	height: 6.75rem;
+}
